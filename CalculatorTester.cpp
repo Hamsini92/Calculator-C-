@@ -7,7 +7,7 @@
  * Extra credit #1: Allow leading + and -
  * Extra credit #2: Allow exponentiation with the ^ operator
  *
- * Author: Ron Mak
+ * Author: Hamsini Sankaran 
  *         Department of Computer Engineering
  *         San Jose State University
  */
